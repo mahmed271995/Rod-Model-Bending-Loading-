@@ -2,4 +2,7 @@
 
 Run the Maincode_live.mlx file to run the case
 
-It is a simple case of pure bending loading and is set for linear constitutive law but nonlinear polynomial constitutive law till power 5 can be included
+It is a simple case of pure bending loading and is set for linear constitutive law
+Nonlinear polynomial constitutive law till power 5 can be included
+Other nonlinear and/or non-homogeneous constittutive laws can also be included
+This is a fully custumizable rod model code
